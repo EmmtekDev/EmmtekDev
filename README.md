@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me https://wa.link/blnjtu
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: i am an introvert
+- Currently learning JavaScript and react.js
 
 <!---
 EmmtekDev/EmmtekDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
